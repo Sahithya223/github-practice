@@ -13,6 +13,9 @@ public class DemoApplication {
 		System.out.println("practice branch");
 		System.out.println("merge practice");
 		System.out.println("2 nd branch");
+		Example example=new Example();
+		int result=example.add(5,10);
+		System.out.println(result);
 	}
 
 }
