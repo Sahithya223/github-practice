@@ -11,6 +11,7 @@ public class DemoApplication {
 		System.out.println("Hello World");
 		System.out.println("Welcome to India");
 		System.out.println("practice branch");
+		System.out.println("merge practice");
 	}
 
 }
