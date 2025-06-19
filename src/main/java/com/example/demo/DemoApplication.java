@@ -8,9 +8,9 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("Hello Wolrd");
+		System.out.println("Hello World");
 		System.out.println("Welcome to India");
-		System.out.println("pratcie branch");
+		System.out.println("practice branch");
 	}
 
 }
